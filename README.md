@@ -1,6 +1,8 @@
 # Reddit Web API and NLP Project
 by Ashley Poon
 
+![alt text](stocks-wsb.png?raw=true)
+
 ## Problem Statement
 
 In late January 2021, Gamestop's stock prices rose dramatically despite the company's shares being shorted at high rates. The forces behind the movement were a handful of r/WallStreetBets users who convinced Redditors en masse to buy up a bunch of GameStop stock, therefore increasing its value. As with any day-trade, this resulted in large profits for some and large losses for others, and the risks were especially magnified when the stock value was driven by the whims of a small group of Redditors rather than market inputs.
